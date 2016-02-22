@@ -1,0 +1,8 @@
+{
+  "shell-version": [
+    "3.14.4"
+  ],
+  "uuid": "gnome-spotify-control@thewunsz.pl",
+  "name": "Gnome Spotify Control",
+  "description": "Control Spotify app from your Gnome session!"
+}
